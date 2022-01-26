@@ -3,9 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Arquivos .bat
+# Arquivos .bat e .ps1
 ativar.bat
 desativar.bat
+psativar.ps1
 
 # C extensions
 *.so
