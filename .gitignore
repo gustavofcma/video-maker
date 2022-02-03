@@ -8,6 +8,9 @@ ativar.bat
 desativar.bat
 psativar.ps1
 
+# Arquivos MacOS
+.DS_Store
+
 # C extensions
 *.so
 
